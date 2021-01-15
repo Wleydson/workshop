@@ -47,3 +47,14 @@ Link dos Http status code: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Sta
     </dependency>
     
 ![Image](https://github.com/Wleydson/workshop/blob/main/workshop%2001%20-%20spring%20essencial/diagram_dtos.png "DTOs")
+
+
+## Aula 4
+ <p>
+  Bem agora que terminamos a ultima aula ta na hora da surpresinha<br/>
+  Vamos lá de desafio hehehe<br/>
+  <br/>
+  O desafio baseia se em criar um nova entidade chama comentario e relacionar ele com a entidade já existente serviços, e lembrando de manter as poucas praticas.
+</p>
+
+![Image](https://github.com/Wleydson/workshop/blob/main/workshop%2001%20-%20spring%20essencial/desafio.png "desafio")
