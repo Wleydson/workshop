@@ -8,7 +8,7 @@
   Link para criação do projeto: https://start.spring.io/
 </p>
 
-## Configurações no pom.xml
+### Configurações no pom.xml
 
     <dependency>
       <groupId>org.springframework.boot</groupId>
@@ -26,6 +26,24 @@
       <artifactId>h2</artifactId>
     </dependency>
     
-## Diagrama
+### Diagrama
 link: https://lucid.app/lucidchart/invitations/accept/e91057a3-e361-4483-a9a8-71482d25ddef
-![Image](https://github.com/Wleydson/workshop/blob/main/workshop%2001%20-%20spring%20essencial/diagram_dtos.png "Diagrama das entidades")
+![Image](https://github.com/Wleydson/workshop/blob/main/workshop%2001%20-%20spring%20essencial/diagrama_entidades.png "Diagrama das entidades")
+
+
+## Aula 2
+Link dos Http status code: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+
+## Aula 3
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-validation</artifactId>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.modelmapper</groupId>
+      <artifactId>modelmapper</artifactId>
+      <version>2.3.0</version>
+    </dependency>
+    
+![Image](https://github.com/Wleydson/workshop/blob/main/workshop%2001%20-%20spring%20essencial/diagram_dtos.png "DTOs")
