@@ -47,9 +47,18 @@
 link: https://lucid.app/lucidchart/invitations/accept/e91057a3-e361-4483-a9a8-71482d25ddef
 ![Image](https://github.com/Wleydson/workshop/blob/main/workshop%2001%20-%20spring%20essencial/diagrama_entidades.png "Diagrama das entidades")
 
+### Lombok
+<p>
+  Link:https://projectlombok.org/ <br/>
+  IntelliJ IDEA: Settings > Plugins > aba Installed > Lombok <br/>
+  Lombok para eclipse: https://dicasdejava.com.br/como-configurar-o-lombok-no-eclipse/
+</p>
+<br/>
 
 ## Aula 2
 Link dos Http status code: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+<br/>
+
 
 ## Aula 3
     <dependency>
