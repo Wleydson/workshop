@@ -30,6 +30,18 @@
       <groupId>com.h2database</groupId>
       <artifactId>h2</artifactId>
     </dependency>
+   
+   ### Configurações Banco H2
+
+    spring.datasource.url=jdbc:h2:mem:db
+    spring.datasource.driver-class-name=org.h2.Driver
+    spring.datasource.username=sa
+    spring.datasource.password=sa
+
+    spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+
+    spring.h2.console.enabled=true
+    spring.h2.console.path=/h2-console
     
 ### Diagrama
 link: https://lucid.app/lucidchart/invitations/accept/e91057a3-e361-4483-a9a8-71482d25ddef
