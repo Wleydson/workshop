@@ -56,6 +56,21 @@ link: https://lucid.app/lucidchart/invitations/accept/e91057a3-e361-4483-a9a8-71
 <br/>
 
 ## Aula 2
+Para conhecer mais sobre as anotações que contém no spring, segue um link para ajuda: https://www.javatpoint.com/spring-boot-annotations
+<br/>
+Anotações que iremos usar na camada de controller:
+      
+      @RestController
+      @RequestMapping("path")
+      @PostMapping
+      @GetMapping
+      @DeleteMapping
+      @PutMapping
+      @ResponseStatus(HttpStatus)
+      @RequestBody
+      @PathVariable
+      
+    
 Link dos Http status code: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
 <br/>
 
