@@ -76,6 +76,11 @@ Link dos Http status code: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Sta
 
 
 ## Aula 3
+ModelMapper: http://modelmapper.org/
+<br/>
+Bean Validation: https://www.baeldung.com/spring-boot-bean-validation
+<br/>
+
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-validation</artifactId>
@@ -88,6 +93,9 @@ Link dos Http status code: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Sta
     </dependency>
     
 ![Image](https://github.com/Wleydson/workshop/blob/main/workshop%2001%20-%20spring%20essencial/diagram_dtos.png "DTOs")
+
+<br/>
+Handler Exception: https://www.baeldung.com/exception-handling-for-rest-with-spring
 
 
 ## Aula 4
