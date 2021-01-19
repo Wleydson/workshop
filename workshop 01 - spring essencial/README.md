@@ -54,6 +54,13 @@ link: https://lucid.app/lucidchart/invitations/accept/e91057a3-e361-4483-a9a8-71
   Lombok para eclipse: https://dicasdejava.com.br/como-configurar-o-lombok-no-eclipse/
 </p>
 <br/>
+<p>
+Lembre de pega o arquivo data.sql aqui no repositorio para ter massa de dados para iniciar a implementação,
+o caminho para colocar o arquivo do data.sql:
+          
+       src/main/resources.
+</p>
+<br/>
 
 ## Aula 2
 Para conhecer mais sobre as anotações que contém no spring, segue um link para ajuda: https://www.javatpoint.com/spring-boot-annotations
