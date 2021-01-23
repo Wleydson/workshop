@@ -58,7 +58,7 @@ link: https://lucid.app/lucidchart/invitations/accept/e91057a3-e361-4483-a9a8-71
 Lembre de pega o arquivo data.sql aqui no repositorio para ter massa de dados para iniciar a implementação,
 o caminho para colocar o arquivo do data.sql:
           
-       src/main/resources.
+       src/main/resources
 </p>
 <br/>
 
@@ -92,7 +92,7 @@ Bean Validation: https://www.baeldung.com/spring-boot-bean-validation
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-validation</artifactId>
     </dependency>
-    
+
     <dependency>
       <groupId>org.modelmapper</groupId>
       <artifactId>modelmapper</artifactId>
@@ -106,11 +106,33 @@ Handler Exception: https://www.baeldung.com/exception-handling-for-rest-with-spr
 
 
 ## Aula 4
+<p>
+  Adicionando o Swagger na api
+  
+    <dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>2.6.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>2.6.1</version>
+		</dependency>
+    
+  Verificar o commit no projeto que foi criado para pega a configuração do swagger: 
+  <br/>
+  https://github.com/Wleydson/se-workshop/commit/2bd65190899d11a3288cf08edaaf94281a5218fc
+</p>
+
+
+## Extra
  <p>
   Bem agora que terminamos a ultima aula ta na hora da surpresinha<br/>
   Vamos lá de desafio hehehe<br/>
   <br/>
-  O desafio baseia se em criar um nova entidade chama comentario e relacionar ele com a entidade já existente serviços, e lembrando de manter as boas praticas.
+  O desafio baseia se em criar um nova entidade chama comentario e relacionar ele com a entidade já existente serviços, e lembrando de manter as boas praticas e criar os endpoints de serviços e comentários.
 </p>
 
 ![Image](https://github.com/Wleydson/workshop/blob/main/workshop%2001%20-%20spring%20essencial/desafio.png "desafio")
