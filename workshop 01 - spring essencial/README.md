@@ -94,7 +94,7 @@ Bean Validation: https://www.baeldung.com/spring-boot-bean-validation
     </dependency>
 
     <dependency>
-      <groupId>org.modelmapper</groupId>
+     <groupId>org.modelmapper</groupId>
       <artifactId>modelmapper</artifactId>
       <version>2.3.0</version>
     </dependency>
@@ -110,15 +110,15 @@ Handler Exception: https://www.baeldung.com/exception-handling-for-rest-with-spr
   Adicionando o Swagger na api
   
 	<dependency>
-		<groupId>io.springfox</groupId>
-		<artifactId>springfox-swagger2</artifactId>
-		<version>2.6.1</version>
+	  <groupId>io.springfox</groupId>
+	  <artifactId>springfox-swagger2</artifactId>
+	  <version>2.6.1</version>
 	</dependency>
-
+	
 	<dependency>
-		<groupId>io.springfox</groupId>
-		<artifactId>springfox-swagger-ui</artifactId>
-		<version>2.6.1</version>
+	  <groupId>io.springfox</groupId>
+	  <artifactId>springfox-swagger-ui</artifactId>
+	  <version>2.6.1</version>
 	</dependency>
     
   Verificar o commit no projeto que foi criado para pega a configuração do swagger: 
